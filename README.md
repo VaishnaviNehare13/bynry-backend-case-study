@@ -69,3 +69,8 @@ Included:
 
 ## Notes
 Where requirements were intentionally incomplete, I documented assumptions and reasoning explicitly, focusing on correctness, maintainability, and practical backend design decisions.
+
+## Detailed Submission Document
+Full formatted case study document can be accessed here:
+
+[View Full Case Study Submission][(https://docs.google.com/document/d/1AHMbmRMFX_MwIWI5TGiIYQRo-3yZize0QYNkc0egagU/edit?usp=sharing)]
